@@ -26,7 +26,7 @@
                 $append=$_POST['append'];
 
                 
-                echo $prepend . $append;
+                echo $text . $prepend . $append;
             }
         ?>
     
